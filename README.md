@@ -88,6 +88,7 @@ Scatterplot
 <img width="564" alt="Screenshot 2023-09-11 at 1 40 43 AM" src="https://github.com/hannahohardy/DescriptionLengthCorrelationAnalysis/assets/80282921/1efe7c89-45d8-4fe6-ba9e-625954b7b966">
 
 Heatmaps
+
 <img width="673" alt="Screenshot 2023-09-11 at 1 41 04 AM" src="https://github.com/hannahohardy/DescriptionLengthCorrelationAnalysis/assets/80282921/fd88fec3-5c08-449f-af6d-26902018f7d7">
 <img width="640" alt="Screenshot 2023-09-11 at 1 41 22 AM" src="https://github.com/hannahohardy/DescriptionLengthCorrelationAnalysis/assets/80282921/84d6a9a7-f56d-4da2-8384-9b7073fe2407">
 
