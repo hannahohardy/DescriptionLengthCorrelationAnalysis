@@ -1,5 +1,5 @@
 # Description Length Correlation Analysis
-Used at an internship to clean, analyze, and visualize metrics. Correlation between description length and leads submitted were analayze with Pearson's. SQL Query is used to gather the needed variables and backfill the missing data.
+Used at an internship to clean, analyze, and visualize metrics. Correlation between description length and leads submitted were analyzed with Pearson's. SQL Query is used to gather the needed variables and backfill the missing data.
 
 # 1. Introduction
 This documentation outlines the process of analyzing the correlation between Description Length in listings and Email Lead Volume for the purpose of optimizing the Listing Score thresholds.
@@ -68,23 +68,12 @@ All csv found in s3 Bucket: description-length-correlation-analysis-csv
 # 4. Data Analysis
 4.1 Correlation Analysis
 Used Pearson’s as standard since they were all close by each other.
-
-
 No correlation since the coefficient is less than 1%
+
 4.2 Sentiment Analysis 
 Used WordCloud to find most frequent words or phrases.
 
-5. Data Visualization
+# 5. Data Visualization
 5.1 Visualizing Correlation Results
 Scatterplot
 Heatmaps
-
-
-
-
-
-
-
-
-6. Conclusion
-7. Future
